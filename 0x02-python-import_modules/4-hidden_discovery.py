@@ -9,4 +9,4 @@ if __name__ == '__main__':
     while i < len(newlist):
         if newlist[i][0] != '_':
             print(newlist[i])
-            i += 1
+        i += 1
